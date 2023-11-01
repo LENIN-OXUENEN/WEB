@@ -1,0 +1,42 @@
+h1 {
+  font-size: 350%;
+  background-color: yellow;
+  background-size:;
+  color: red;
+}
+h2 {
+  font-size: 350%;
+  background-color: yellow;
+  background-size:;
+  color: red;
+
+}
+h4 {
+  
+  color: red;
+}
+P {
+  
+  color: red;
+}
+ol{
+  color: violet;
+}
+header {
+  padding-top: 10px;
+   padding-bottom: 60px;
+  background: yellow ;
+  font-size: 150%;
+
+  font-color: red;
+font-family: 'Comic Sans MS';
+
+}
+.cosar{
+  object-fit: fill;
+  width: 1920px;
+}
+.pocik{
+    object-fit: fill;
+  width: 1920px;
+}
